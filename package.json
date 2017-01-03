@@ -1,0 +1,22 @@
+{
+  "name": "sse-capture",
+  "version": "1.0.0",
+  "description": "A development tool for storing data from a SSE stream and replaying it for development purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/droidenator/sse-capture.git"
+  },
+  "author": "Sean Corrales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/droidenator/sse-capture/issues"
+  },
+  "homepage": "https://github.com/droidenator/sse-capture#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
